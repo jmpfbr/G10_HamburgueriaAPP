@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp"
+            android:gravity="center"
+            tools:context=".CadastroActivity">
+
+            <!-- TextView para a frase "Criando cadastro" -->
+            <TextView
+                android:id="@+id/cadastroTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Criando cadastro"
+                android:textColor="@color/red"
+                android:textSize="24sp"
+                android:layout_marginBottom="16dp"
+                android:layout_gravity="center" />
+
+            <EditText
+                android:id="@+id/usernameEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Username"
+                android:inputType="text"
+                android:layout_marginBottom="16dp"
+                android:padding="10dp" />
+
+            <EditText
+                android:id="@+id/passwordEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Password"
+                android:inputType="textPassword"
+                android:layout_marginBottom="16dp"
+                android:padding="10dp" />
+
+            <EditText
+                android:id="@+id/phoneNumberEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Número de celular"
+                android:inputType="phone"
+                android:layout_marginBottom="16dp"
+                android:padding="10dp" />
+
+
+            <EditText
+                android:id="@+id/emailEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Email"
+                android:inputType="textEmailAddress"
+                android:layout_marginBottom="16dp"
+                android:padding="10dp" />
+
+            <EditText
+                android:id="@+id/addressEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Endereço"
+                android:inputType="text"
+                android:layout_marginBottom="16dp"
+                android:padding="10dp" />
+
+
+            <EditText
+                android:id="@+id/cardNumberEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Número do cartão"
+                android:inputType="number"
+                android:layout_marginBottom="16dp"
+                android:padding="10dp" />
+
+            <RadioGroup
+                android:id="@+id/cardBrandRadioGroup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="16dp">
+
+                <RadioButton
+                    android:id="@+id/visaRadioButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Visa" />
+
+                <RadioButton
+                    android:id="@+id/mastercardRadioButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="MasterCard" />
+
+                <RadioButton
+                    android:id="@+id/amexRadioButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Amex" />
+            </RadioGroup>
+
+            <EditText
+                android:id="@+id/cardHolderNameEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Nome do titular"
+                android:inputType="textPersonName"
+                android:layout_marginBottom="16dp"
+                android:padding="10dp" />
+
+            <EditText
+                android:id="@+id/cardExpiryDateEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Data de validade (MM/AA)"
+                android:inputType="number"
+                android:maxLength="5"
+                android:layout_marginBottom="16dp"
+                android:padding="10dp" />
+
+            <EditText
+                android:id="@+id/cardCVVEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="CVV"
+                android:maxLength="3"
+                android:inputType="numberPassword"
+                android:layout_marginBottom="16dp"
+                android:padding="10dp" />
+
+            <Button
+                android:id="@+id/registerButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Cadastrar"
+                android:layout_marginTop="16dp"
+                android:padding="10dp" />
+
+        </LinearLayout>
+
+    </ScrollView>

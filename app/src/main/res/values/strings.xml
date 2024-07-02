@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">G10 Burguers</string>
+    <string name="bem_vindo">Bem vindo à nossa hamburgueria!</string>
+    <string name="perfil">Perfil</string>
+    <string name="card_pio">Cardápio</string>
+    <string name="carrinho">Carrinho</string>
+    <string name="profile_icon">Perfil</string>
+    <string name="order">Pedido</string>
+    <string name="order_details">Avenida Maracanã, 1902, Rio de Janeiro</string>
+    <string name="payment">Pagamento</string>
+    <string name="debit">Débito</string>
+    <string name="credit">Crédito</string>
+    <string name="cash">Cash</string>
+    <string name="pay">Pagar</string>
+    <string name="back_button">Voltar</string>
+
+
+</resources>
