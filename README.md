@@ -28,14 +28,17 @@ Clone o repositório:
 git clone https://github.com/jmpfbr/G10_HamburgueriaAPP.git
 Abra o projeto no Android Studio
 Aguarde o download das dependências do Gradle
+
 Execute o projeto em um:
 Emulador Android
 Dispositivo físico
-🎯 Funcionalidades (exemplo - ajuste conforme seu app)
-Cadastro de produtos 🍔
+
+🎯 Funcionalidades
+
 Registro de pedidos 🧾
 Organização do fluxo de atendimento
 Interface simples e funcional
+
 📌 Objetivo Acadêmico
 
 Este projeto foi desenvolvido como parte dos estudos em Sistemas de Informação, com foco na prática de desenvolvimento mobile e aplicação de conceitos de programação.
