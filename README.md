@@ -14,7 +14,6 @@ Android Studio
 Gradle (KTS)
 Arquitetura padrão Android
 
-📂 Estrutura do Projeto
 G10_HamburgueriaAPP/
 │
 ├── app/                # Código principal da aplicação
