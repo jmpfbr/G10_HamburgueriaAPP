@@ -25,7 +25,7 @@ G10_HamburgueriaAPP/
 
 ⚙️ Como Executar o Projeto
 Clone o repositório:
-git clone https://github.com/seu-usuario/G10_HamburgueriaAPP.git
+git clone https://github.com/jmpfbr/G10_HamburgueriaAPP.git
 Abra o projeto no Android Studio
 Aguarde o download das dependências do Gradle
 Execute o projeto em um:
