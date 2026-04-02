@@ -72,16 +72,19 @@ Selecione um Emulador ou um Dispositivo Físico e clique no botão de "Run" (íc
 ---
 
 📌 Objetivo Acadêmico
+
 Este projeto faz parte da grade curricular do curso de Sistemas de Informação. O foco é aplicar conceitos de ciclo de vida da Activity, persistência de dados e design de interfaces mobile.
 
 ---
 
 👨‍💻 Autor
 João Marcos Fierro e Grupo
+
 Fierro Softwares
 
 ---
 
 📄 Licença
+
 Este projeto é de uso exclusivamente acadêmico e livre para fins de estudo e consulta.
 
