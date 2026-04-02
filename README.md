@@ -81,11 +81,11 @@ Este projeto faz parte da grade curricular do curso de Sistemas de Informação.
 
 João Marcos Fierro e Grupo
 
-Fierro Softwares
-
 ---
 
 📄 Licença
+
+Fierro Softwares
 
 Este projeto é de uso exclusivamente acadêmico e livre para fins de estudo e consulta.
 
