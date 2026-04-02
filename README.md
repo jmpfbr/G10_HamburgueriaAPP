@@ -2,7 +2,7 @@
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)
 
 Aplicativo mobile desenvolvido com foco na gestão e operação de uma hamburgueria, oferecendo funcionalidades para organização de pedidos, produtos e fluxo de atendimento.
 
@@ -78,6 +78,7 @@ Este projeto faz parte da grade curricular do curso de Sistemas de Informação.
 ---
 
 👨‍💻 Autor
+
 João Marcos Fierro e Grupo
 
 Fierro Softwares
