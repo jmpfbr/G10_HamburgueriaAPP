@@ -24,12 +24,15 @@ G10_HamburgueriaAPP/
 ├── settings.gradle.kts # Configuração geral do projeto
 
 ⚙️ Como Executar o Projeto
+
 Clone o repositório:
 git clone https://github.com/jmpfbr/G10_HamburgueriaAPP.git
+
 Abra o projeto no Android Studio
 Aguarde o download das dependências do Gradle
 
 Execute o projeto em um:
+
 Emulador Android
 Dispositivo físico
 
