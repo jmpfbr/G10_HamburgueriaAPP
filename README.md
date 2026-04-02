@@ -15,12 +15,15 @@ Gradle (KTS)
 Arquitetura padrão Android
 
 G10_HamburgueriaAPP/
-│
-├── app/                # Código principal da aplicação
-├── gradle/             # Configurações do Gradle
-├── .idea/              # Configurações da IDE
-├── build.gradle.kts    # Configuração de build
-├── settings.gradle.kts # Configuração geral do projeto
+├── app/                 # Código principal da aplicação
+├── gradle/              # Configurações do Gradle
+├── .idea/               # Configurações da IDE
+├── .gitignore           # Arquivos ignorados pelo Git
+├── build.gradle.kts     # Script de build principal
+├── settings.gradle.kts  # Configuração do projeto
+├── gradlew              # Script de execução (Linux/Mac)
+├── gradlew.bat          # Script de execução (Windows)
+└── README.md            # Documentação do projeto
 
 ⚙️ Como Executar o Projeto
 
